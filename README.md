@@ -120,8 +120,16 @@ Faramarzi, A., Sharini, H., Shanbehzadeh, M., Yousef Pour, M., Fooladi, M., Jala
 
 *Psychiatry Research: Neuroimaging, 326, 111532.*
 
+[Read the article](https://www.sciencedirect.com/science/article/abs/pii/S0925492722000932)
+
+[DOI: 10.1016/j.pscychresns.2022.111532](https://doi.org/10.1016/j.pscychresns.2022.111532)
+
 ## Author
 
 **Ayob Faramarzi**
 
 Biomedical Engineering | Neuroimaging | fMRI | MRS | Brain Connectivity | Machine Learning
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=1uivc_4AAAAJ)
+
+[LinkedIn](https://www.linkedin.com/in/ayob-faramarzi/)
