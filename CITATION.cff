@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated publication."
+title: "Anhedonia Symptoms: The Assessment of Brain Functional Mechanism Following Music Stimuli Using Functional Magnetic Resonance Imaging"
+authors:
+  - family-names: Faramarzi
+    given-names: Ayob
+  - family-names: Sharini
+    given-names: Hamid
+  - family-names: Shanbehzadeh
+    given-names: Mohammad
+  - family-names: Yousef Pour
+    given-names: Mitra
+  - family-names: Fooladi
+    given-names: Mehdi
+  - family-names: Jalalvandi
+    given-names: Maziar
+  - family-names: Amiri
+    given-names: Shahrzad
+  - family-names: Kazemi-Arpanahi
+    given-names: Hamid
+volume: 326
+year: 2022
