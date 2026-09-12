@@ -2,6 +2,10 @@
 
 ## Anhedonia Symptoms: The Assessment of Brain Functional Mechanism Following Music Stimuli Using Functional Magnetic Resonance Imaging
 
+![Study summary](figures/research-summary.svg)
+
+*Original visual summary based on the published study.*
+
 This repository presents a research project investigating the functional brain mechanisms associated with anhedonia during music stimulation using functional magnetic resonance imaging (fMRI).
 
 The study focused on differences in brain responses and effective connectivity among healthy individuals, depressed patients without anhedonia, and depressed patients with anhedonia.
@@ -29,9 +33,7 @@ The study included three groups:
 - 25 depressed patients without anhedonia
 - 24 depressed patients with anhedonia
 
-Participants underwent fMRI while listening to positive and negative Iranian music stimuli.
-
-The music task included 50 music tracks, with each track presented for 12 seconds.
+Participants underwent fMRI while listening to positive and negative Iranian music stimuli. The music task included 50 tracks, with each track presented for 12 seconds.
 
 ## MRI Acquisition
 
@@ -66,7 +68,7 @@ A general linear model (GLM) was then used to investigate brain responses to the
 
 ## Brain Regions of Interest
 
-The analysis focused on several emotion-related brain regions, including:
+The analysis focused on emotion-related regions including:
 
 - Supragenual anterior cingulate cortex (sgACC)
 - Subgenual anterior cingulate cortex
@@ -77,9 +79,7 @@ The analysis focused on several emotion-related brain regions, including:
 
 Dynamic causal modeling (DCM) was used to investigate effective connectivity between the selected brain regions.
 
-The analysis examined how music stimulation influenced interactions between emotion-related brain regions and whether these connectivity patterns differed between the study groups.
-
-Model identification and group-level analysis were performed, with false discovery rate (FDR) correction applied to statistical results.
+The study evaluated effective connectivity strength within the frontolimbic network and investigated whether connectivity patterns differed between participants with and without anhedonia.
 
 ## Research Workflow
 
@@ -118,11 +118,11 @@ Faramarzi, A., Sharini, H., Shanbehzadeh, M., Yousef Pour, M., Fooladi, M., Jala
 
 **Anhedonia Symptoms: The Assessment of Brain Functional Mechanism Following Music Stimuli Using Functional Magnetic Resonance Imaging.**
 
-*Psychiatry Research: Neuroimaging, 326, 111532.*
+*Psychiatry Research: Neuroimaging, 326*, 111532.
 
-[Read the article](https://www.sciencedirect.com/science/article/abs/pii/S0925492722000932)
-
-[DOI: 10.1016/j.pscychresns.2022.111532](https://doi.org/10.1016/j.pscychresns.2022.111532)
+- [Read the article](https://www.sciencedirect.com/science/article/abs/pii/S0925492722000932)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/36095991/)
+- [DOI](https://doi.org/10.1016/j.pscychresns.2022.111532)
 
 ## Author
 
