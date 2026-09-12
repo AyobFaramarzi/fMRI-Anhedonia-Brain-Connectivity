@@ -2,7 +2,7 @@
 
 ## Anhedonia Symptoms: The Assessment of Brain Functional Mechanism Following Music Stimuli Using Functional Magnetic Resonance Imaging
 
-![Study summary](figures/research-summary.svg)
+![Study summary](research-summary.svg)
 
 *Original visual summary based on the published study.*
 
